@@ -6,7 +6,7 @@ import {
 }from "react-router-dom";
 import Home from "./Home";
 import Stuff from "./Stuff";
-import Gallery from "../Gallery";
+import Gallery from "./Gallery";
 
 class Main extends Component {
     render() {
